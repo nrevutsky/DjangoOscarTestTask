@@ -1,6 +1,6 @@
 apipkg==1.4
 appdirs==1.4.0
-Babel==2.3.4
+Babel==2.9.1
 backports.shutil-get-terminal-size==1.0.0
 beautifulsoup4==4.5.3
 configparser==3.5.0
